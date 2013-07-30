@@ -10,6 +10,14 @@ Installation
 1. Upload plugin files to the /wp-content/plugins/ directory
 2. Activate the plugin through the Plugins menu in WordPress
 
+Usage
+------------
+
+1. Select the pin type when adding a new post.
+2. Save the post.
+3. Edit it and add the information for the rich pin.
+4. Save the post. 
+
 License
 -------
 
