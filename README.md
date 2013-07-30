@@ -17,6 +17,8 @@ Usage
 2. Save the post.
 3. Edit it and add the information for the rich pin.
 4. Save the post. 
+5. Validate the post at [Pinterest Validator](http://favooks.com/test.html)
+6. Apply
 
 License
 -------
